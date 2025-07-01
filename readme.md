@@ -11,3 +11,12 @@ It’s a personal engineering toolkit for competitive programming.
 - Minimal in-code explanations, edge case handling, and optimizations  
 - Solutions categorized by online judges and contests, with consistent naming and formatting patterns  
 - Utility scripts for IDE setup, stress testing, and benchmarking  
+
+
+## 🌐 OJ Handles
+
+- [Codeforces](https://codeforces.com/profile/arpanjha234)
+- [CodeChef](https://www.codechef.com/users/arpanjha234)
+- [LeetCode](https://leetcode.com/arpanjha234)
+- [AtCoder](https://atcoder.jp/users/arpanjha234)
+- [CSES](https://cses.fi/problemset/user/166271/)
