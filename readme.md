@@ -1,6 +1,6 @@
 # ⚙️ Competitive Programming
 
-A curated collection of solved problems, templates, and utility scripts built over consistent practice and contests.  
+A curated collection of solved problems, templates, and utility scripts built over time.
 This repository is designed for **speed, recall, and scale**.  
 It’s a personal engineering toolkit for competitive programming.  
 
